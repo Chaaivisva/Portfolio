@@ -14,7 +14,7 @@ const newsArticles = [
     image: videoConfrencingAppImage,
     title: "Video Conferencing App",
     description:
-      "A fast and reliable video conferencing app that supports SDG 08: Decent Work and Economic Growth by enabling seamless remote collaboration...",
+      "A fast and reliable video conferencing app designed to enhance remote collaboration, supporting SDG 08: Decent Work and Economic Growth by enabling seamless communication across teams and businesses. Built with the MERN stack, it leverages WebRTC for real-time video streaming, Socket.io for low-latency interactions, and Tailwind CSS for a sleek, responsive user interface. This solution ensures high-quality video calls, secure connections, and scalable performance, making virtual meetings more efficient and accessible for remote professionals and organizations.",
     source1: { name: "Source Link", link: "#" },
     time: "January 21, 2025",
     author: "Chaaivisva, Anudeep, Karthikeyan",
@@ -24,7 +24,7 @@ const newsArticles = [
     image: ethicalHiringPlatformImage,
     title: "Ethical Hiring Platform",
     description:
-      "An AI-powered ATS and video screening system that ensures fair hiring while promoting SDG 09: Reduced Inequalities...",
+      "An AI-powered Applicant Tracking System (ATS) and video screening platform designed to ensure fair and unbiased hiring, supporting SDG 10: Reduced Inequalities by eliminating bias in recruitment. Built with Django and RESTful APIs, it integrates LlamaIndex Core and Retrieval-Augmented Generation (RAG) to analyze resumes intelligently and assess candidates based on skills and experience. The system leverages Celery for efficient task management and SQLite3 for secure data handling, ensuring a transparent, data-driven hiring process that promotes diversity and equal opportunities in the workforce.",
     source1: { name: "Source Link", link: "https://github.com/Chaaivisva/Ethical_hiring" },
     time: "September 23, 2024",
     author: "Chaaivisva, Nagulesh, Aravind G",
@@ -34,7 +34,7 @@ const newsArticles = [
     image: inventoryManagementImage,
     title: "Inventory Management System",
     description:
-      "A simple and efficient system to track stock, manage inventory, and automate restocking alerts...",
+      "A simple and efficient inventory management system designed to track stock, manage inventory, and automate restocking alerts, ensuring smooth operations for businesses. Built with Django and RESTful APIs, it utilizes Celery for asynchronous task execution and Cron Jobs to schedule automated stock updates. The system is powered by PostgreSQL for reliable data storage and runs seamlessly within Docker containers, providing scalability, security, and efficient resource management for businesses of all sizes.",
     source1: { name: "Source Link", link: "https://github.com/Chaaivisva/Inventory-Management" },
     time: "September 08, 2024",
     author: "Chaaivisva, Aravind A, Nagulesh",
@@ -44,7 +44,7 @@ const newsArticles = [
     image: restaurantManagementImage,
     title: "Restaurant Management System",
     description:
-      "A smart system to manage orders, menus, and customers with ease...",
+      "A smart and intuitive restaurant management system designed to streamline order processing, menu management, and customer interactions, enhancing efficiency for restaurants. Built with Django and RESTful APIs, it leverages SQLite3 for lightweight yet reliable database management. The system includes role-based access control using Groups and Permissions, ensuring secure and organized operations. With its user-friendly interface and automated workflows, it simplifies restaurant administration, improving service quality and overall customer satisfaction.",
     source1: { name: "Source Link", link: "https://github.com/Chaaivisva/Restaurant-Management-System" },
     time: "February 08, 2024",
     author: "Chaaivisva",
@@ -54,7 +54,7 @@ const newsArticles = [
     image: plantDiseaseSuggestionImage,
     title: "Plant Disease Suggestion",
     description:
-      "An AI-powered tool that helps identify plant diseases and provides treatment suggestions...",
+      "A community-driven plant disease identification and treatment suggestion platform that connects users with experts for accurate guidance. Instead of AI-based analysis, users can upload images of diseased plants, and the system acts as a forum where the Microcosm KCT team provides expert recommendations. Built with Django, it leverages Signals and Channels for real-time interactions, along with RESTful APIs for smooth data handling and SQLite3 for efficient storage. This platform fosters collaborative learning and agricultural support, helping farmers and gardeners receive timely and reliable plant care advice.",
     source1: { name: "Source Link", link: "https://github.com/Chaaivisva/Plant-Disease-Suggestion" },
     time: "January 17, 2024",
     author: "Chaaivisva",
@@ -64,7 +64,7 @@ const newsArticles = [
     image: puddlleWebsiteImage,
     title: "Puddle System",
     description:
-      "A simple platform for buying and selling items through photos and videos...",
+      "A user-friendly marketplace that allows individuals to buy and sell items effortlessly through photos and videos. Sellers can upload images, set prices, and list their products, while interested buyers can contact them directly through the platform to make a purchase. Built with Django, it utilizes Signals and Channels for real-time communication, RESTful APIs for seamless data exchange, and SQLite3 for efficient storage. This platform ensures a smooth and secure buying and selling experience, making online transactions more interactive and convenient for users.",
     source1: { name: "Source Link", link: "https://github.com/Chaaivisva/Puddle-website" },
     time: "September 26, 2023",
     author: "Chaaivisva",
