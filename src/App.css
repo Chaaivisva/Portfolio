@@ -1,0 +1,25 @@
+@import "tailwindcss";
+/* Newspaper Background */
+.newspaper-bg {
+    background-image: url("assets/newsprint-pattern.png"); /* Add a subtle newspaper texture */
+    background-size: contain;
+    background-repeat: repeat;
+    width: 200%;
+    height: 200%;
+    position: absolute;
+  }
+  
+  /* Scroll Animation */
+  @keyframes scrollNews {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(-50%);
+    }
+  }
+  
+  .animate-scrollNews {
+    animation: scrollNews 30s linear infinite;
+  }
+  
