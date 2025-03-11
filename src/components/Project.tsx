@@ -64,7 +64,7 @@ const newsArticles = [
     image: puddlleWebsiteImage,
     title: "Puddle System",
     description:
-      "A user-friendly marketplace that allows individuals to buy and sell items effortlessly through photos and videos. Sellers can upload images, set prices, and list their products, while interested buyers can contact them directly through the platform to make a purchase. Built with Django, it utilizes Signals and Channels for real-time communication, RESTful APIs for seamless data exchange, and SQLite3 for efficient storage. This platform ensures a smooth and secure buying and selling experience, making online transactions more interactive and convenient for users.",
+      "A user-friendly marketplace that allows individuals to buy and sell items effortlessly through photos and videos. Sellers can upload images, set prices, and list their products, while interested buyers can contact them directly through the platform to make a purchase. Built with Django, it utilizes Signals and Channels for real-time communication, RESTful APIs for seamless data exchange, and SQLite3 for efficient storage. This platform ensures a smooth and secure buying and selling experience, making online transactions more interactive and convenient for users. ",
     source1: { name: "Source Link", link: "https://github.com/Chaaivisva/Puddle-website" },
     time: "September 26, 2023",
     author: "Chaaivisva",
