@@ -12,7 +12,7 @@ export const Header = () => {
 
          
             <h3 className='text-sm leading-tight'>
-                    The Blog <br />of Chaaivisva R
+                    The Blog <br />of Chaaivisva
                 </h3>
             {/* Desktop Menu (Visible on md & lg screens) */}
       
